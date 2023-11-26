@@ -50,6 +50,14 @@ The library offers a straightforward API, making it easy to learn and use for ba
 ### Lightweight and Efficient
 DOMCraft.js focuses on essential functionalities, ensuring a smaller footprint and better performance for projects that do not require complex features.
 
+### Getting Started
+
+To start using DOMCraft.js in your project, you can include it via a Content Delivery Network (CDN). Simply add the following script tag to your HTML file:
+
+```html
+<script src="https://codellins.github.io/domcraft/v1/domcraft.min.js"></script>
+```
+
 ## Notes:
 
 - All functions support optional callback parameters for execution after the operation is completed.
